@@ -1,0 +1,454 @@
+@media screen and (max-width:575px) {
+    .links li {
+        font-size: 11px;
+        padding: 0px 7px;
+    }
+    .cover {
+        font-size: 16px;
+    }
+    .nav-content .fokir {
+        font-size: 16px;
+        padding: 0;
+    }
+    .about1 {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    .about2 h2 {
+        font-size: 20px;
+    }
+    .about2 p {
+        padding: 10px 0px;
+        font-size: 16px;
+        line-height: 1.5em;
+    }
+    .about-list li {
+        width: 50%;
+    }
+    .about-list{
+        padding: 10px 0px;
+    }
+    .about-list span{
+        font-size: 16px;
+    }
+    .about-list li{
+        padding:5px 0px;
+        font-size: 16px;
+    }
+    .box-border {
+        border: none;
+    }
+    .about2 {
+        width: 100%;
+    }
+    .box-content {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .about-list li {
+        width: 100%;
+    }
+    .service {
+        width: 100%;
+    }
+    .section-inner {
+        font-size: 16px;
+        width: 50%;
+    }
+    .portfolio {
+        font-size: 16px;
+        width: 50%;
+    }
+    .portfolio-links {
+        width: 85%;
+    }
+    .picture {
+        width: 100%;
+    }
+    .section-content {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .feedback {
+        width: 50%;
+        font-size: 16px;
+    }
+    .content-imge {
+        width: 100%;
+        float: none;
+    }
+    .imge {
+        float: none;
+        width: 100%;
+    }
+    .blog {
+        width: 50%;
+        font-size: 16px;
+    }
+    .blog-content {
+        width: 100%;
+        margin: 10px 10px;
+    }
+    .contact {
+        width: 50%;
+        font-size: 16px;
+    }
+    .contact1 {
+        width: 100%;
+    }
+    input[type=email]{
+        width: 90%;
+    }
+    .form {
+        width: 90%;
+        margin: auto;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+    .links li {
+        font-size: 14px;
+        padding: 0px 7px;
+    }
+    .cover {
+        font-size: 17px;
+    }
+    .nav-content .fokir {
+        font-size: 18px;
+        padding: 0;
+    }
+    .container{
+        width: 100%;
+    }
+    .about1 {
+        width: 80%;
+        margin-bottom: 20px;
+        float: none;
+        margin: auto;
+    }
+    .box-border {
+        border: none;
+    }
+    .about2 {
+        width: 100%;
+        float: none;
+        margin: 20px auto;
+        
+    }
+    .about2 h2 {
+        margin-left: 50px;
+        font-size: 30px;
+        border-left: solid 4px #ff305b;
+    }
+    .about2 p {
+        margin-left: 50px;
+        padding: 10px 0px;
+        font-size: 17px;
+        line-height: 1.5em;
+    }
+    .about-list li {
+        margin-left: 50px;
+        width: 100%;
+    }
+    .about-list{
+        padding: 10px 0px;
+    }
+    .about-list span{
+        font-size: 17px;
+    }
+    .about-list li{
+        padding:5px 0px;
+        font-size: 17px;
+    }
+    .btn{
+        margin-left: 50px;
+    }
+    .btn2{
+        margin-left: 20px;
+    }
+    .box-content {
+        float: none;
+        width: 100%;
+        margin: auto;
+    }
+    .about-list li {
+        width: 100%;
+    }
+    .service {
+        width: 100%;
+    }
+    .service p {
+        padding: 0px 30px;
+        text-align: center;
+    }
+    .section-inner {
+        font-size: 16px;
+        width: 50%;
+    }
+    .portfolio {
+        font-size: 16px;
+        width: 50%;
+    }
+    .portfolio-links {
+        width: 60%;
+        margin: auto;
+        text-align: center;
+    }
+    .picture {
+        float: none;
+        width: 80%;
+        margin: auto;
+    }
+    .section-content {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+    .section-content h3 {
+        padding-bottom: 10px;
+    }
+    .section-content a {
+        padding-bottom: 10px;
+    }
+    .feedback {
+        width: 50%;
+        font-size: 16px;
+    }
+    .content-imge {
+        width: 100%;
+    }
+    .imge {
+        width: 80%;
+    }
+    .blog {
+        width: 50%;
+        font-size: 16px;
+    }
+    .blog-content {
+        width: 100%;
+        margin: 10px 10px;
+    }
+    .contact {
+        width: 50%;
+        font-size: 16px;
+    }
+    .contact1 {
+        float: none;
+        margin: auto;
+        width: 100%;
+    }
+    input[type=email]{
+        width: 90%;
+    }
+    .form {
+        padding: 0px 30px;
+        width: 90%;
+        margin: auto;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .links li {
+        font-size: 16px;
+        padding: 0px 7px;
+    }
+    .cover {
+        font-size: 18px;
+    }
+    .nav-content .fokir {
+        font-size: 20px;
+        padding: 0;
+    }
+    .container{
+        width: 100%;
+        padding: 0;
+    }
+    .about1 {
+        width: 50%;
+        margin-bottom: 20px;
+        float: left;
+        margin-top: 0;
+        padding-left: 0;
+    }
+    
+    .about2 {
+        width: 50%;
+        float: left;
+        padding-left: 15px;
+        margin-top: 20px;
+    }
+    .about2 h2 {
+        font-size: 20px;
+    }
+    .about2 p {
+        padding: 10px 0px;
+        font-size: 14px;
+        line-height: 1.5em;
+    }
+    .about-list li {
+        width: 50%;
+    }
+    .about-list{
+        padding: 10px 0px;
+    }
+    .about-list span{
+        font-size: 14px;
+    }
+    .about-list li{
+        padding:5px 0px;
+        font-size: 14px;
+    }
+    .box-border {
+        border: none;
+    }
+    .box-content {
+        width: 90%;
+    }
+    .serviceinner{
+        width: 95%;
+    }
+    .service {
+        width: 50%;
+        margin-bottom: 20px;
+        padding-right: 30px;
+    }
+    .service p {
+        padding: 0px 10px 10px;
+        text-align: center;
+    }
+    .section-inner {
+        font-size: 18px;
+        width: 50%;
+    }
+    .portfolio {
+        font-size: 18px;
+        width: 50%;
+    }
+    .portfolio-links {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    .picture {
+        float:left;
+        width: 50%;
+        margin: auto;
+    }
+    .section-content {
+        width: 25%;
+        padding-bottom: 40px;
+    }
+    .section-content h3 {
+        padding-bottom: 10px;
+    }
+    .section-content a {
+        padding-bottom: 10px;
+    }
+    .feedback {
+        width: 50%;
+        font-size: 18px;
+    }
+    .inner-box{
+        width: 80%;
+    }
+    .content-imge {
+        width: 70%;
+    }
+    .imge {
+        width: 30%;
+    }
+    .blog {
+        width: 50%;
+        font-size: 16px;
+    }
+    .blog-content {
+        width:33.33%;
+        padding: 15px;
+    }
+    .blog-inner p{
+    
+            font-size: 16px;
+            line-height: 1.2em;
+            padding-bottom: 10px;
+        }
+        .blog-inner h3{
+            padding-top:0px;
+            font-size: 18px;
+        }
+    .contact {
+        width: 50%;
+        font-size: 18px;
+    }
+    .contact1 {
+        float: none;
+        margin: auto;
+        width: 100%;
+    }
+    input[type=email]{
+        width: 90%;
+    }
+    .form {
+        padding: 0px 30px;
+        width: 90%;
+        margin: auto;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .about1{
+        width: 50%;
+    }
+    .about2 {
+        width: 50%;
+        float: left;
+        padding-left: 15px;
+        margin-top: 20px;
+    }
+    .about2 h2 {
+        font-size: 20px;
+    }
+    .about2 p {
+        padding: 10px 0px;
+        font-size: 16px;
+        line-height: 1.5em;
+    }
+    .about-list li {
+        width: 50%;
+    }
+    .about-list{
+        padding: 10px 0px;
+    }
+    .about-list span{
+        font-size: 16px;
+    }
+    .about-list li{
+        padding:5px 0px;
+        font-size: 16px;
+    }
+    .serviceinner{
+        width: 100%;
+    }
+    .service h3{
+        font-size:16px ;
+    }
+    .portfolio-links {
+        width: 40%;
+        text-align: center;
+    }
+    .inner-box{
+        width: 70%;
+    }
+    .blog-inner p{
+        font-size: 17px;
+        line-height: 1.5em;
+        padding-bottom: 10px;
+    }
+    .blog-inner h3{
+        padding-top:0px;
+        font-size: 18px;
+    }
+    .form {
+        padding: 0px 30px;
+        width: 90%;
+        margin: auto;
+    }
+   
+}
